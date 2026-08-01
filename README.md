@@ -1,5 +1,4 @@
 # Secure-File-Transfer-Application-Custom-Protocol-
-Secure File Transfer Application Using a Custom Protocol
 
 Overview
 
@@ -53,14 +52,6 @@ Security Features
 * Custom packet framing with command and payload length fields
 * Entropy-based heuristic file analysis
 
-Project Structure
-
-├── client.py          # Console Client
-├── gui_client.py      # GUI Client
-├── server.py          # Secure Server
-├── protocol.py        # Custom Secure Protocol
-├── received_files/    # Received files
-└── README.md
 
 Educational Purpose
 
